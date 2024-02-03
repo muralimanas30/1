@@ -3,12 +3,13 @@
     height: 100vh;
     justify-content: center;
     align-items: center;
-    background:url("BACKGROUND//b5.jpg") no-repeat;
+    background: no-repeat;
     background-size: cover;
     background-size: 100% 100%;
     outline: none;
     color: white;
     margin: 0px;
+    background: linear-gradient(45deg, red, blue);
 
     
 }
