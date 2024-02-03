@@ -1,13 +1,22 @@
+body{
+    outline: none;
+
+    margin: 0px;
+    border: 0px;
+}
+
 .window{
     display: flex;
     height: 100vh;
     justify-content: center;
     align-items: center;
-   
+    background:url("b5.jpg") no-repeat;
+    background-size: cover;
+    background-size: 100% 100%;
     outline: none;
     color: white;
     margin: 0px;
-    background: linear-gradient(45deg, red, blue);
+    
 
     
 }
@@ -22,7 +31,7 @@
     box-shadow: 20px 20px 50px 10px #0f1617;
     height: 18rem;
     width: 20rem;
-    bac
+    
 }
 
 .LOGIN-HEADING{
